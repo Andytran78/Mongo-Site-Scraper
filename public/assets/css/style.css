@@ -1,0 +1,33 @@
+body {
+    background-image: url("newyorktimes.jpg");
+    background-size: 100%;
+}
+
+
+.topheader {
+    background: rgba(155,184,204,0.75);
+    text-align: center;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.bottomheader {
+    background: white;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+
+.listInfo {
+    color: blue;
+}
+.listingTitle {
+    font-size: 25px;
+    font-family: 'Droid Serif', serif;
+}
